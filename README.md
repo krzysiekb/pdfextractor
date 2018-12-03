@@ -3,4 +3,4 @@
 `mvn clean package`
 
 ### To run: 
-`./start.sh`
+`./start.sh <path-to-pdf> <out-dir>`
