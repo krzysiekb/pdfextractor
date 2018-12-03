@@ -1,4 +1,4 @@
 # pdfextractor
 
-###To run:
+### To run: 
 `./start.sh`
