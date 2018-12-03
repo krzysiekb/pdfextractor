@@ -1,6 +1,6 @@
 # pdfextractor
 ### To build: 
-`mvn clean package
+`mvn clean package`
 
 ### To run: 
 `./start.sh`
